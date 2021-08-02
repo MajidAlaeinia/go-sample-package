@@ -1,3 +1,3 @@
-module github.com/MajidAlaeinia/go-sample-package
+module macal
 
 go 1.16
